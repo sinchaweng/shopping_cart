@@ -1,0 +1,4 @@
+*.css linguist-vendored
+*.scss linguist-vendored
+bower_components/* linguist-vendored
+dist/* linguist-vendored
